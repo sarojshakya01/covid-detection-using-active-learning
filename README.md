@@ -1,6 +1,6 @@
-# COVID-19 Detection using DAgger Imitation Learning
+# COVID-19 Detection using DAgger Active Learning
 
-This project leverages imitation learning, specifically the DAgger algorithm, to detect COVID-19 from various data sources. The goal is to improve the accuracy and robustness of COVID-19 detection models using advanced machine learning techniques.
+This project leverages active learning to detect COVID-19 from various data sources. The goal is to improve the accuracy and robustness of COVID-19 detection models using advanced machine learning techniques.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -13,7 +13,7 @@ This project leverages imitation learning, specifically the DAgger algorithm, to
 - [Contributing](#contributing)
 
 ## Introduction
-The COVID-19 pandemic has necessitated rapid advancements in diagnostic tools. This project explores the use of imitation learning, particularly the DAgger algorithm, to enhance the detection of COVID-19 from medical images and other related data.
+The COVID-19 pandemic has necessitated rapid advancements in diagnostic tools. This project explores the use of active learning, particularly the DAgger algorithm, to enhance the detection of COVID-19 from medical images and other related data.
 
 ## Dataset
 The datasets used in this project include:
